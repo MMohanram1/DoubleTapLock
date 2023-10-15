@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Screen Lock</string>
+    <string name="app_name_lower">screen lock</string>
+    <string name="accessibility_service_label">Double Tap to Lock Screen</string>
+    <string name="accessibility_service_description">Locks the screen on double tap gesture in home screen</string>
+    <string name="device_admin">Screen Lock</string>
+    <string name="device_admin_description">Perform lock action on double tap or from quick settings</string>
+    <string name="set_as_device_admin">Set as Device Admin</string>
+    <string name="set_as_device_admin_desc">To lock device, you need to set this app as a device admin.</string>
+    <string name="cancel">Cancel</string>
+</resources>
